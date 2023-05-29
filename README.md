@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Postman tests 
+[Repository Postman-collection](https://github.com/ArtemActum/postman-collection/tree/main)
+
+### Cypress tests 
+[Repository with example](https://github.com/ArtemActum/Cypress-Assigment)
+
 <!--
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
