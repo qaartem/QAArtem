@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ### Postman tests 
-[Repository Postman-collection](https://github.com/ArtemActum/postman-collection/tree/main)
+#### [Repository with Postman tests](https://github.com/ArtemActum/postman-collection/tree/main)
 
 ### Cypress tests 
-[Repository with example](https://github.com/ArtemActum/Cypress-Assigment)
+#### [Repository with Cypress tests](https://github.com/ArtemActum/Cypress-Assigment)
 
 <!--
 ## My CV
