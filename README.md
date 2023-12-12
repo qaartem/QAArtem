@@ -7,7 +7,7 @@
 #### [Repository with Cypress tests](https://github.com/ArtemActum/Cypress-Assigment)
 
 ### Java tests: API Restassured + FE selenide 
-#### [Repository with Cypress tests](https://github.com/ArtemActum/teamcity-testing-framework)
+#### [Repository with Java tests](https://github.com/ArtemActum/teamcity-testing-framework)
 
 <!--
 ## My CV
