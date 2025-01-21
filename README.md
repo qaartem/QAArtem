@@ -9,6 +9,9 @@
 ### Java tests: API Restassured + FE selenide 
 #### [Repository with Java tests](https://github.com/ArtemActum/teamcity-testing-framework)
 
+### Playwright tests for lambda web
+#### [Repository with Playwright tests](https://github.com/qaartem/Playwright)
+
 ### Language and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
